@@ -1,0 +1,7 @@
+{
+    "projectName": "IotaResearchMain",
+    "namespace": "IotaResearchMain.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
